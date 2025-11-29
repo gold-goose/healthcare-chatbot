@@ -1,3 +1,1 @@
 # Healthcare Chatbot
-
-RAG
